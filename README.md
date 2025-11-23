@@ -29,12 +29,10 @@
 
 
 2. **Установите зависимости:**
-  `bash
-  pip install -r requirements.txt `
+  `pip install -r requirements.txt `
 
 3. **Проверьте установку:**
- `bash
-  python fastq_analyzer.py --help `
+   `python fastq_analyzer.py --help `
 ### Способ 2: Прямая установка
 1. **Скачайте файлы:**
 
@@ -45,8 +43,7 @@
  - fastq_gui.py
 
 2. **Установите зависимости:**
-`bash
-pip install matplotlib numpy pandas seaborn`
+`pip install matplotlib numpy pandas seaborn`
 
 ## Запуск
 `python fastq_analyzer.py`
