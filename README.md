@@ -1,9 +1,7 @@
 # Tequila Sunrise Calculator
 
-<div align="center">
 
 Элегантный калькулятор с тематическим дизайном "Tequila Sunrise" 
-
 
 ## Требования
 
